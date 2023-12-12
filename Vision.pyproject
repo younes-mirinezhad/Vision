@@ -1,0 +1,11 @@
+{
+    "files": [
+        "qmls/Toolbox.qml",
+        "qmls/SideBar.qml",
+        "main.py",
+        "main.qml",
+        "qmls/ImagePage.qml",
+        "qmls/VideoPage.qml",
+        "qmls/HomePage.qml"
+    ]
+}
